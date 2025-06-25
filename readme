@@ -1,23 +1,81 @@
-# 🖍️ Draw Overlay Tool
 
-A lightweight tool that lets you draw directly on top of any webpage — like a transparent whiteboard layer.
+Tanvi’s Paint Extension – Setup & Installation Guide
 
-## ✨ Features
+1. Folder Structure
 
-- Draw on top of any webpage
-- Erase, change color, and brush size
-- Save your drawing as PNG
-- Touch + mouse support
-- Toggle on/off with one click
+Make sure your folder is named PAINTONWEBEXTENSION and contains these files:
 
-## 🔧 How to Use
+manifest.json
 
-1. Open `index.html` in your browser.
-2. Click the **"Activate Drawing"** button.
-3. Right-click to open the drawing tools menu.
-4. Press **Escape** to exit.
+background.js
 
-## 🔗 Share as Bookmarklet
+paint.js
 
-Copy this into a bookmark to use on any page:
+icon.png
+
+readme
+
+2. How to Install the Extension in Chrome
+
+Step-by-step instructions for you or your friends:
+
+Open Google Chrome.
+
+In the address bar, type:
+chrome://extensions/
+
+In the top right corner, turn on "Developer mode".
+
+Click the "Load unpacked" button.
+
+Select the folder PAINTONWEBEXTENSION from your computer.
+
+The extension will now appear in your Chrome toolbar with the icon you provided.
+
+3. How to Use the Extension
+
+Click the extension icon in the Chrome toolbar to activate drawing mode.
+
+Use your mouse (or finger on touchscreens) to draw directly on the webpage.
+
+Right-click anywhere on the page to open the custom drawing menu.
+
+From the menu, you can:
+
+Toggle eraser mode.
+
+Change brush size.
+
+Pick a different color.
+
+Save your drawing as a PNG file.
+
+Press the ESC key on your keyboard to exit drawing mode.
+
+4. How to Share the Extension with Friends
+
+Option A: Share as a ZIP file
+
+Zip the entire PAINTONWEBEXTENSION folder.
+
+Send it to your friend via email, Google Drive, WhatsApp, etc.
+
+Tell them to extract the ZIP and follow the install steps above.
+
+Option B: Upload to GitHub
+
+Create a GitHub repository.
+
+Upload the folder contents.
+
+Share the link so they can download it or clone the repo.
+
+5. Notes
+
+This extension runs completely on your device.
+
+It does not require internet or access to private data.
+
+Works best on most regular websites (some sites with special protections may block it).
+
 
