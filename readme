@@ -1,0 +1,23 @@
+# 🖍️ Draw Overlay Tool
+
+A lightweight tool that lets you draw directly on top of any webpage — like a transparent whiteboard layer.
+
+## ✨ Features
+
+- Draw on top of any webpage
+- Erase, change color, and brush size
+- Save your drawing as PNG
+- Touch + mouse support
+- Toggle on/off with one click
+
+## 🔧 How to Use
+
+1. Open `index.html` in your browser.
+2. Click the **"Activate Drawing"** button.
+3. Right-click to open the drawing tools menu.
+4. Press **Escape** to exit.
+
+## 🔗 Share as Bookmarklet
+
+Copy this into a bookmark to use on any page:
+
